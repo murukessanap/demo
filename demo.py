@@ -1,1 +1,1 @@
-print("Welcome to github"*10)
+print("Welcome to github\n"*10)
